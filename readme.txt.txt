@@ -1,2 +1,0 @@
-key文件夹装的是ssh钥匙
-myproject文件夹存放的是项目文件
